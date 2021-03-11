@@ -7,4 +7,12 @@ Per favorire il turismo culturale, l’Assessorato al Turismo di una città d’
 realizzare un’infrastruttura tecnologica che offra ai visitatori un servizio per la fruizione di contenuti
 multimediali che descrivono i “punti di interesse” (Point Of Interest = POI) di tipo monumentale
 (es. chiese, luoghi storici, ...) e artistico (es. musei, mostre, ...) distribuiti nel centro storico della città.
+# Principali Derivables
+# Milestone
+# Vincoli e dipendenze
+# Tempistica preliminare
+# Principali risorse e limiti di costo
+# Documenti di riferimento
+# Struttura organizzativa
+# Autorizzazione
 
