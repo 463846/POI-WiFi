@@ -59,8 +59,46 @@ I vincoli sono:
 
 
 # Tempistica preliminare
+
+Il progetto inizia adesso 16/03/2021 e dovrà concludersi entro 30/04/2021
+
+***Timeline:***
+
+- AVVIO: da 16/03/2021 a 19/03/2021
+
+- REALIZAZZIONE: da 19/03/2021 a 20/04/2021
+
+- MANUTENZIONE: da 20/04/2021 a 30/04/2021
+
+
 # Principali risorse e limiti di costo
+
+
+- I minitablet costano circa 200 euro(in buone condizioni)
+    
+- Le macchine oltre ad i minitablet facenti parte dell'infrastruttura di rete da realizzare
+
+- I biglietti da dare ai clienti, il costo varierà in base alla scelta di produzione( se saranno acquistati da esterni o realizzati dall'azienda)
+
+- I tecnici esterni , i cui costi variano dai 20 ai 100 euro/h
+
+- Le risorse materiali impegnate come le postazioni di lavoro dei programmatori, la disponibilità di rete LAN, WAN per lo sviluppo
+
+- Progetto avrà un margine economico che verrà stabilito dal project manager
+
+
 # Documenti di riferimento
+
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE:
+Sessione ordinaria 2019
+Seconda prova scritta
+
 # Struttura organizzativa
+
+Project manager del progetto sarà l’Assessore al Turismo
+
+Il team di progetto costituito da un insieme di persone esterne
+
 # Autorizzazione
 
+Approvato da  l’Assessore al Turismo
