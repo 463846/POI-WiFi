@@ -2,7 +2,7 @@
 
 Progetto: Servizio Turistico	Codice progetto: A844                      
 Data: 16/03/2021	        Revisione: 0                              
-Cliente: Turista	        Sponsor: Daniele Biagiotti, Fabio Angeli 
+Cliente: Turista	        Sponsor: Assessorato al turismo
 
 # Obiettivo
 Per favorire il turismo culturale, l’Assessorato al Turismo di una città d’arte di medie dimensioni intende
