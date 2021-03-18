@@ -89,9 +89,7 @@ Il progetto inizia adesso 16/03/2021 e dovrà concludersi entro 30/04/2021
 
 # Documenti di riferimento
 
-ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE:
-Sessione ordinaria 2019
-Seconda prova scritta
+Documento di riferimento assente
 
 # Struttura organizzativa
 
