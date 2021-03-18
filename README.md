@@ -80,9 +80,7 @@ Il progetto inizia adesso 16/03/2021 e dovrà concludersi entro 30/04/2021
 
 - I biglietti da dare ai clienti, il costo varierà in base alla scelta di produzione( se saranno acquistati da esterni o realizzati dall'azienda)
 
-- I tecnici esterni , i cui costi variano dai 20 ai 100 euro/h
-
-- Le risorse materiali impegnate come le postazioni di lavoro dei programmatori, la disponibilità di rete LAN, WAN per lo sviluppo
+- I tecnici esterni , i cui costi variano dai 20 ai 60 euro/h
 
 - Progetto avrà un margine economico che verrà stabilito dal project manager
 
@@ -93,10 +91,11 @@ Documento di riferimento assente
 
 # Struttura organizzativa
 
-Project manager del progetto sarà l’Assessore al Turismo
+Project manager del progetto sarà Daniele Biagiotti
 
-Il team di progetto costituito da un insieme di persone esterne
+Il team di progetto sarà costituito da Fabio Angeli e da un insieme di persone esterne
+
 
 # Autorizzazione
 
-Approvato da  l’Assessore al Turismo
+Approvato da l’Assessore al Turismo
