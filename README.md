@@ -66,7 +66,7 @@ Il progetto inizia adesso 16/03/2021 e dovrà concludersi entro 30/04/2021
 
 - AVVIO: da 16/03/2021 a 19/03/2021
 
-- REALIZAZZIONE: da 19/03/2021 a 20/04/2021
+- REALIZZAZIONE: da 19/03/2021 a 20/04/2021
 
 - MANUTENZIONE: da 20/04/2021 a 30/04/2021
 
