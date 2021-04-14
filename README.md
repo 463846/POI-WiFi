@@ -60,15 +60,17 @@ I vincoli sono:
 
 # Tempistica preliminare
 
-Il progetto inizia adesso 16/03/2021 e dovrà concludersi entro 30/04/2021
+Il progetto inizia adesso 16/03/2021 e dovrà concludersi entro 22/05/2021
 
 ***Timeline:***
 
 - AVVIO: da 16/03/2021 a 19/03/2021
 
-- REALIZZAZIONE: da 19/03/2021 a 20/04/2021
+- REALIZZAZIONE: da 20/03/2021 a 20/05/2021
 
-- MANUTENZIONE: da 20/04/2021 a 30/04/2021
+- INSTALLAZIONE: da 21/05/2021 a 21/05/2021
+
+- MANUTENZIONE: da 22/05/2021 a 22/05/2021
 
 
 # Principali risorse e limiti di costo
